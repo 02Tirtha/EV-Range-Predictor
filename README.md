@@ -62,19 +62,20 @@ The dataset includes EV specifications and performance metrics such as:
 ```bash
 git clone https://github.com/<your-username>/EV-Range-Predictor.git
 cd EV-Range-Predictor
-
----
+```
 
 ### 2. Install Dependencies
 Make sure you have Python 3.8+ installed. Then run:
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
 ### 3. Run the Streamlit App
 ```bash
 streamlit run app.py
+```
 
 ---
 
@@ -97,7 +98,7 @@ Once the app is running, open it in your browser at:
 
 ---
 
-## 6. Example Output
+## Example Output
 
 ### 🧮 Prediction:
 🔋 **Estimated EV Range:** `410.57 km`
@@ -108,7 +109,7 @@ Once the app is running, open it in your browser at:
 - Interactive dropdown lets you explore how each feature affects range.  
 
 ---
-## 7. 📸 Screenshots
+## 📸 Screenshots
 
 ### 🖼️ App Interface
 ![EV Range App Interface](screenshots/input.png)
