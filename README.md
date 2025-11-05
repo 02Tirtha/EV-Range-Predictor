@@ -111,8 +111,7 @@ Once the app is running, open it in your browser at:
 ## 7. 📸 Screenshots
 
 ### 🖼️ App Interface
-![EV Range App Interface](https://raw.githubusercontent.com/02Tirtha/EV-Range-Predictor/main/screenshots/input.png)
-
+ Input | ![Input](screenshots/input.png) 
 ### 📊 Prediction Output
 ![Prediction Output](screenshots/output.png)
 ---
