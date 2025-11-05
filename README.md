@@ -91,7 +91,7 @@ Once the app is running, open it in your browser at:
 2. Click **"New app"**  
 3. Connect your **GitHub repository**  
 4. Configure the following:  
-   - **Repository:** `yourusername/EV_RANGE`  
+   - **Repository:** `02Tirtha/EV-Range-Predictor`  
    - **Branch:** `main`  
    - **Main file path:** `app.py`  
 5. Click **Deploy 🚀**
@@ -141,11 +141,17 @@ If you'd like to improve this project:
 Please ensure your code follows good practices and is well-documented.
 
 ---
+## ☁️ Live Demo
+
+Try the EV Range Predictor app online:  
+[https://ev-range-predictor.streamlit.app/](https://ev-range-predictor.streamlit.app/)
+
+---
 
 ## 👩‍💻 Author
 
 **Tirtha Jhaveri**  
-💡 💡 Passionate about Machine Learning, Full Stack, and Adaptive Web Design. 
+💡Passionate about Machine Learning, Full Stack, and Adaptive Web Design. 
 📧 *tjhaveri99@gmail.com*   
 
 ---
