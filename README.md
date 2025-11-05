@@ -112,7 +112,7 @@ Once the app is running, open it in your browser at:
 ## 📸 Screenshots
 
 ### 🖼️ App Interface
- Input | ![Input](screenshots/input.png) 
+ ![Input](screenshots/input.png) 
 ### 📊 Prediction Output
 ![Prediction Output](screenshots/output.png)
 ---
