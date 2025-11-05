@@ -112,8 +112,7 @@ Once the app is running, open it in your browser at:
 ## 📸 Screenshots
 
 ### 🖼️ App Interface
-![EV Range App Interface](screenshots/input.png)
-
+ Input | ![Input](screenshots/input.png) 
 ### 📊 Prediction Output
 ![Prediction Output](screenshots/output.png)
 ---
